@@ -1,4 +1,4 @@
-package exercisesPackage;
+package pargol;
 
 /*
 MAP
@@ -14,7 +14,7 @@ public class Exercises3 {
  Profit of an investment
  */
        /* double principle = 0;
-        double interesRate = 0.0625;
+        double interesRate =x 0.0625;
         int numOfYears = 0;
 
         Scanner kb = new Scanner(System.in);
@@ -667,5 +667,5 @@ for( int j =1 ; j <= limit ; j ++) {
 
     }
 }
-
+//System.out.format("2%d$. ... formatea a una tabla.
 
